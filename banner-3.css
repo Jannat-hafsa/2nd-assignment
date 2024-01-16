@@ -1,0 +1,15 @@
+.banner-3-image-contrainer{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 24px;
+}
+.banner-3-images{
+    position: relative;
+}
+.banner-3-des{
+    color: steelblue;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}

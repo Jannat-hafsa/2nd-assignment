@@ -1,0 +1,48 @@
+.nav-heading{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.manu-list{
+    color: var(--Dark-02, #424247);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    margin-right: 44px;
+}
+.manu-list-1{
+    color: #FF5400;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    margin-right: 44px;
+}
+li{
+    list-style: none;
+}
+.nav-manu-list{
+    display:flex;
+    margin-left: 20px;
+}
+.nav-contrainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
